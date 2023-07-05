@@ -3,19 +3,19 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "username": {
-      "value": "GEN-UNIQUE"
+      "value": "azureuser"
     },
     "vmSize": {
       "value": "Standard_D2s_v3"
     },
     "dnsNameForPublicIP": {
-      "value": "GEN-UNIQUE"
+      "value": "my-dns-name7"
     },
     "commandToExecute": {
       "value": "sh hello.sh"
     },
     "adminPasswordOrKey": {
-      "value": "GEN-SSH-PUB-KEY"
+      "value": "sshPublicKey"
     }
   }
 }
