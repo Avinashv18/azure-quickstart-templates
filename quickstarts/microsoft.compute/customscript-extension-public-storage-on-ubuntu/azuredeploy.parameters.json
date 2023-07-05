@@ -15,7 +15,7 @@
       "value": "sh hello.sh"
     },
     "adminPasswordOrKey": {
-      "value": "sshPublicKey"
+      "value": ""
     }
   }
 }
