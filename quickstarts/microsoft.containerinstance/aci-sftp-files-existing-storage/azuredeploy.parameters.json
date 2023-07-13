@@ -3,19 +3,19 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "sftpUser": {
-      "value": "GEN-UNIQUE-6"
+      "value": "storagea2pbee5k5viic"
     },
     "sftpPassword": {
-      "value": "GEN-PASSWORD"
+      "value": "173YzjJR8DZ4JWCwbnAU9KBGFLXxPGcGi/uUIJVMUXjLg1g9UPmN54OitZ86bWzEE3jdzf3dc5dg+AStvaYH2g=="
     },
     "existingStorageAccountResourceGroupName": {
-      "value": "GET-PREREQ-existingStgAcctRGName"
+      "value": "MyResourceGroup"
     },
     "existingStorageAccountName": {
-      "value": "GET-PREREQ-existingStgAcctName"
+      "value": "storagea2pbee5k5viic"
     },
     "existingFileShareName": {
-      "value": "GET-PREREQ-existingFileShareName"
+      "value": "sftpshare"
     }
   }
 }
